@@ -18,3 +18,4 @@ hello atguigu! hello git! hot-fix test
 git push git-demo master
 2222222222222 by lhc
 git push origin master
+remove collaborators by liutao2002

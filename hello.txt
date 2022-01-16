@@ -17,3 +17,4 @@ hello atguigu! hello git! hot-fix test
 11111111111111111
 git push git-demo master
 2222222222222 by lhc
+git push origin master
